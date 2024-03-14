@@ -17,4 +17,4 @@ and finally you can acces to the todo list
 in the todo list you can type in on [type] Whats next to Do?...
 and then a new item will appear on the list
 
-If you want to erase and item just click on the item you want to erase and it will dissapear from the list
+If you want to erase an item just click on the item you want to erase and it will dissapear from the list
